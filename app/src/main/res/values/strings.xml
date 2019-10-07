@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="score1_label">SCORE 1</string>
+    <string name="score1_value">60</string>
+    <string name="score2_label">SCORE2</string>
+    <string name="score2_value">90</string>
+    <string name="button1_increase">INCREMENT</string>
+    <string name="button1_decrease">DECREMENT</string>
+</resources>

@@ -8,6 +8,5 @@
     <string name="radiobutton1">+2</string>
     <string name="radio2">+ 4</string>
     <string name="radio3">+ 6</string>
-    <string name="score1_value">60</string>
     <string name="score1_label">SCORE 1</string>
 </resources>

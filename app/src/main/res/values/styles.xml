@@ -19,7 +19,7 @@
 
 
     <style name ="lightbackground">
-        <item name ="android:background">E5C1B9</item>
+        <item name ="android:background">#E5C1B9</item>
     </style>
 
     <style name="dark">
